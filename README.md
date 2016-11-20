@@ -1,9 +1,9 @@
 # CountDownApp
-Ce Travail est réalisé par : 
-BENHELLAL Narimane
+Ce projet à était réalisé par : 
+ -Narimane BENHELLAL 
 N.benhellal@gmail.com
-Username = narimaneBNH
-et IDIR Abdenour
+Pseudo github: narimaneBNH
+et -Abdenour IDIR
 idir.abdenour@hotmail.com 
-Idirabdenour
+Pseudo github Idirabdenour
 
