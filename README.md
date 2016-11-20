@@ -1,5 +1,5 @@
 # CountDownApp
-Ce projet à était réalisé par : 
+Ce projet a été réalisé par : 
  -Narimane BENHELLAL 
 N.benhellal@gmail.com
 Pseudo github: narimaneBNH
